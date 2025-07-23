@@ -27,6 +27,7 @@ import {
   useConfig,
   useLayoutType,
   usePagination,
+  showModal,
 } from '@openmrs/esm-framework';
 import { EmptyDataIllustration } from './empty-data-illustration.component';
 import { useActiveVisits, useActiveVisitsSorting, useObsConcepts, useTableHeaders } from './active-visits.resource';
